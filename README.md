@@ -1,8 +1,8 @@
 # Pandemic Analysis
 
-Group project:
+Final Group project:
 
-Analysis and trend visualizations of COVID-19 data using Python, Pandas, Machine Learning, Plotly, JavaScript, D3, Tableau and HTML/CSS. We examined the amount of cases and deaths that have been reported for every country, as well as compared the amount of cases per state within the United States. Moreover, we compared the gender demographics and death rates for people infected with this virus.
+Analysis and trend visualizations of COVID-19 data using Python, Pandas, Machine Learning, Plotly, JavaScript, D3, Tableau and HTML/CSS. 
 
 ## Machine Learning Models:
 
@@ -24,13 +24,13 @@ Three graphs were created using Tableau to compare the total amount of confirmed
 
 ## Map of Cases in the U.S. Using JavaScript:
 
-A dynamic table that displays the county, state, number of cases, deaths, latitude and longitude for the U.S. was created using JavaScript. The table can be filtered by state and county.
+Dynamic table that allows the user to search the database filtering by state and county with in the US. The data includes the county, state, number of cases, deaths, latitude and longitude. Tools:JavaScript
 
 <img src="images/map.png" width="600">
 
 ## Tracker and live Update: 
 
-A visualization of cases around the world was created using a Plotly map. Also, a live-update that tracks the number of cases, deaths, recovered cases, new cases and new deaths for every country using an API. 
+Plotly Map with live-updates, tracking the number of cases, deaths, recovered cases, new cases and new deaths for every country using an API. 
 
 <img src="images/tracker.png" width="600">
 
